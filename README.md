@@ -1,2 +1,26 @@
-# Guangzhou-air-quality-analysis
-A data visualization project analyzing PM2.5 air quality trends in Guangzhou (2020–2024)
+# Guangzhou Air Quality Analysis (2020–2024)
+
+This project presents a visual analysis of PM2.5 air quality data in Guangzhou from 2020 to 2024. The goal is to identify trends, seasonal patterns, and year-over-year improvements or challenges related to air pollution.
+
+## Project Structure
+
+- `data/`: Contains the original PM2.5 dataset (`.csv`)
+- `figures/`: Contains generated charts and figures
+- `notebooks/`: Contains Jupyter Notebook analysis
+- `requirements.txt`: Required Python libraries
+
+## Tools Used
+
+- Python (Pandas, Matplotlib, Seaborn)
+- Jupyter Notebook
+
+## Key Insights
+
+- The PM2.5 level shows a seasonal fluctuation pattern with higher values typically in winter.
+- The average PM2.5 levels have shown a general decline from 2020 to 2024, indicating improvements in air quality.
+
+## How to Use
+
+1. Clone the repository
+2. Install required packages using `pip install -r requirements.txt`
+3. Run the analysis notebook in Jupyter
