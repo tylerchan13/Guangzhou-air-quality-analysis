@@ -1,6 +1,9 @@
 # Guangzhou Air Quality Analysis (2020–2024)
 
-This project presents a visual analysis of PM2.5 air quality data in Guangzhou from 2020 to 2024. The goal is to identify trends, seasonal patterns, and year-over-year improvements or challenges related to air pollution.
+## Overview
+
+This project presents a data visualization and exploratory analysis of PM2.5 air quality trends in Guangzhou from 2020 to 2024. The purpose is to understand how fine particulate matter (PM2.5) levels have evolved over recent years and to identify patterns or anomalies that may reflect policy changes, seasonal effects, or other influencing factors.
+
 
 ## Project Structure
 
